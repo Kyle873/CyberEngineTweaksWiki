@@ -22,6 +22,6 @@ All configurations are booleans, setting to `true` means that you enable the pat
 ### It says "unknown version" and patches fail
 
 Three options:
-1. You modified the exe yourself, in which case the mod will not work! You can repaid via GOG or Steam to revert your changes.
+1. You modified the exe yourself, in which case the mod will not work! You can repair via GOG or Steam to revert your changes.
 2. You are using a patch that is not supported (currently only 1.04 is supported for some patches).
 3. You used the old version of the mod and still have the old file, delete `bin/x64/Cyberpunk77.exe.plugins/` and reinstall the mod.
