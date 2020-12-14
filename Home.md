@@ -10,11 +10,12 @@
 
 All configurations are booleans, setting to `true` means that you enable the patch!
 
-* **avx**: Some people encounter a crash due to AVX, if you encounter the crash, set this to true. (default: false)
-* **smt**: This fixes a bug with AMD CPUs causing the game to use only half the CPU. (default: true)
-* **spectre**: Spectre is a hardware security flaw that can leak a process' memory, the mitigation for spectre has a performance impact. The mitigation doesn't make sense for a game, a spectre exploit is very hard to pull off and there is nothing in Cyberpunk's memory that is sensitive. This patch removes part of the mitigation to get back that lost performance. (default: true).
-* **virtual_input**: Not performance related, fixes the input so you can use Steam controllers.
-* **memory_pool**: This will override the default memory pool settings, it gives a decent boost of performance for some users and none for others. (default: true) 
+* **avx**: Some people encounter a crash due to AVX, if you encounter the crash, set this to true. `(default: false)`
+* **smt**: This fixes a bug with AMD CPUs causing the game to use only half the CPU. `(default: true)`
+* **spectre**: Spectre is a hardware security flaw that can leak a process' memory, the mitigation for spectre has a performance impact. The mitigation doesn't make sense for a game, a spectre exploit is very hard to pull off and there is nothing in Cyberpunk's memory that is sensitive. This patch removes part of the mitigation to get back that lost performance. `(default: true)`.
+* **virtual_input**: Not performance related, fixes the input so you can use Steam controllers. `(default: true)`
+* **memory_pool**: This will override the default memory pool settings, it gives a decent boost of performance for some users and none for others. `(default: true) `
+* **unlock_menu**: Unlocks the debug menu, use at your own risk! `(default: false)`
 
 ## Troubleshoot
 
