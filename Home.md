@@ -15,3 +15,11 @@ All configurations are booleans, setting to `true` means that you enable the pat
 * **spectre**: Spectre is a hardware security flaw that can leak a process' memory, the mitigation for spectre has a performance impact. The mitigation doesn't make sense for a game, a spectre exploit is very hard to pull off and there is nothing in Cyberpunk's memory that is sensitive. This patch removes part of the mitigation to get back that lost performance. (default: true).
 * **virtual_input**: Not performance related, fixes the input so you can use Steam controllers.
 * **memory_pool**: This will override the default memory pool settings, it gives a decent boost of performance for some users and none for others. (default: true) 
+
+## Troubleshoot
+
+### It says "unknown version" and patches fail
+
+Two options:
+1. You modified the exe yourself, in which case the mod will not work! You can repaid via GOG or Steam to revert your changes.
+2. You are using a patch that is not supported (currently only 1.04 is supported for some patches)
