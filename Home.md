@@ -17,7 +17,7 @@ Three options:
 
 ### It doesn't create a log, nothing happens!
 
-Install [this](https://support.microsoft.com/en-in/help/2977003/the-latest-supported-visual-c-downloads)
+Install [this](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
 ## Configuration
 
