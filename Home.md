@@ -31,3 +31,7 @@ Boolean options set to `true` means that you enable the patch!
 * **unlock_menu**: Unlocks the debug menu, use at your own risk! `(default: false)`
 * **cpu_memory_pool_fraction**: This gives the percentage of CPU memory to use, 1.0 being 100%, 0.5 being 50%. `(default: 0.5)`
 * **gpu_memory_pool_fraction**: This gives the percentage of GPU memory to use, 1.0 being 100%, 0.5 being 50%. `(default: 1.0)`
+
+## Uninstall
+
+Just delete `<cyberpunk install path>/bin/x64/version.dll` and `<cyberpunk install path>/bin/x64/plugins/`.
