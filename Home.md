@@ -31,7 +31,7 @@ Boolean options set to `true` means that you enable the patch!
 * **unlock_menu**: Unlocks the debug menu, use at your own risk! `(default: false)`
 * **cpu_memory_pool_fraction**: This gives the percentage of CPU memory to use, 1.0 being 100%, 0.5 being 50%. `(default: 0.5)`
 * **gpu_memory_pool_fraction**: This gives the percentage of GPU memory to use, 1.0 being 100%, 0.5 being 50%. `(default: 1.0)`
-* **remove_pedestrians**: Removes most of the pedestrians and traffic from the game. `(default: false)`
+* **remove_pedestrians**: Removes most of the pedestrians and traffic from the game. Be careful using this, a save made with this active will NEVER have pedestrians/traffic anymore! `(default: false)`
 * **skip_start_menu**: Skips the main menu asking you to press space bar when "Breaching..." `(default: true)`
 
 ## Uninstall
