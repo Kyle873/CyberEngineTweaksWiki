@@ -33,6 +33,7 @@ Boolean options set to `true` means that you enable the patch!
 * **gpu_memory_pool_fraction**: This gives the percentage of GPU memory to use, 1.0 being 100%, 0.5 being 50%. `(default: 1.0)`
 * **remove_pedestrians**: Removes most of the pedestrians and traffic from the game. Be careful using this, a save made with this active will NEVER have pedestrians/traffic anymore! `(default: false)`
 * **skip_start_menu**: Skips the main menu asking you to press space bar when "Breaching..." `(default: true)`
+* **disable_async_compute**: Setting this to true will disable async compute, can increase performance on older hardware `(default: false)`
 
 ## Uninstall
 
