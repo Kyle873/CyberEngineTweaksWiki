@@ -4,7 +4,7 @@
 2. Unzip everything in `<cyberpunk install path>/bin/x64/`
 3. You should see Cyberpunk2077.exe and version.dll in this directory, it means you did it correctly.
 4. Launch the game!
-5. (Optional) To check that everything works you can look at the logs in ` <cyberpunk install path>/bin/x64/plugins/cyber_engine_tweaks/cyber_engine_tweaks.log`
+5. (Optional) To check that everything works you can look at the logs in `<cyberpunk install path>/bin/x64/plugins/cyber_engine_tweaks/cyber_engine_tweaks.log`
 
 ## Troubleshoot
 
@@ -23,6 +23,8 @@ Install [this](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
 Boolean options set to `true` means that you enable the patch!
 
+The options are all found in: `<cyberpunk install path>/bin/x64/plugins/cyber_engine_tweaks/config.json`
+
 * **avx**: Some people encounter a crash due to AVX, the mod will detect if you are at risk and will patch if it's the case. `(default: true)`
 * **smt**: This fixes a bug with AMD CPUs causing the game to use only half the CPU. `(default: true)`
 * **spectre**: Spectre is a hardware security flaw that can leak a process' memory, the mitigation for spectre has a performance impact. The mitigation doesn't make sense for a game, a spectre exploit is very hard to pull off and there is nothing in Cyberpunk's memory that is sensitive. This patch removes part of the mitigation to get back that lost performance. `(default: true)`.
@@ -34,6 +36,7 @@ Boolean options set to `true` means that you enable the patch!
 * **remove_pedestrians**: Removes most of the pedestrians and traffic from the game. Be careful using this, a save made with this active will NEVER have pedestrians/traffic anymore! `(default: false)`
 * **skip_start_menu**: Skips the main menu asking you to press space bar when "Breaching..." `(default: true)`
 * **disable_async_compute**: Setting this to true will disable async compute, can increase performance on older hardware `(default: false)`
+* **disable_antialiasing**: Setting this to true will disable antialiasing (TAA), can increase performance on older hardware but looks horrible `(default: false)`
 
 ## Uninstall
 
