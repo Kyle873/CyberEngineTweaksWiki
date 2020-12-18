@@ -19,6 +19,10 @@ Three options:
 
 Install [this](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
+### When I press the End key to show the console, I only see the cursor
+
+A few software use a way to hook that conflicts with the way this mod does it, please disable the other overlays (such as RivaTuner, Fraps) and try again.
+
 ## Configuration
 
 Boolean options set to `true` means that you enable the patch!
@@ -37,6 +41,8 @@ The options are all found in: `<cyberpunk install path>/bin/x64/plugins/cyber_en
 * **skip_start_menu**: Skips the main menu asking you to press space bar when "Breaching..." `(default: true)`
 * **disable_async_compute**: Setting this to true will disable async compute, can increase performance on older hardware `(default: false)`
 * **disable_antialiasing**: Setting this to true will disable antialiasing (TAA), can increase performance on older hardware but looks horrible `(default: false)`
+* **dump_game_options**: Will dump all options and their default values in the log file `(default: false)`
+* **console**: Enables a console that can be opened by pressing the End key. It accepts all the console commands the game has available. `(default: true)`
 
 ## Uninstall
 
