@@ -46,4 +46,10 @@ The options are all found in: `<cyberpunk install path>/bin/x64/plugins/cyber_en
 
 ## Uninstall
 
-Just delete `<cyberpunk install path>/bin/x64/version.dll` and `<cyberpunk install path>/bin/x64/plugins/`.
+Just delete the following folders/files:
+
+* `<cyberpunk install path>/bin/x64/plugins/`
+* `<cyberpunk install path>/bin/x64/global.ini`
+* `<cyberpunk install path>/bin/x64/LICENSE`
+* `<cyberpunk install path>/bin/x64/version.dll`
+
