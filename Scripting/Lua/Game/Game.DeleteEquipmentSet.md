@@ -1,3 +1,0 @@
-## Game.DeleteEquipmentSet(setName)
-
-WIP

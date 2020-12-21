@@ -1,3 +1,0 @@
-## Game.CGLP()
-
-WIP

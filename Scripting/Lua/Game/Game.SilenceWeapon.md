@@ -1,3 +1,0 @@
-## Game.SilenceWeapon(flag)
-
-WIP

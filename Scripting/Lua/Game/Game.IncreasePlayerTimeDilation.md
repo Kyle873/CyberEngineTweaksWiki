@@ -1,3 +1,0 @@
-## Game.IncreasePlayerTimeDilation()
-
-WIP

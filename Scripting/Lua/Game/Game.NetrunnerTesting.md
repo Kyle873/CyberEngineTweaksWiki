@@ -1,3 +1,0 @@
-## Game.NetrunnerTesting()
-
-WIP

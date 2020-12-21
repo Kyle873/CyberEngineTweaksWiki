@@ -1,3 +1,0 @@
-## Game.PrintStatsPlayer()
-
-WIP

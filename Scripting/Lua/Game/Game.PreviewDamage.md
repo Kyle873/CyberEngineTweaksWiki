@@ -1,3 +1,0 @@
-## Game.PreviewDamage(value)
-
-WIP

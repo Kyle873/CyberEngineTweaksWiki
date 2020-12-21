@@ -1,3 +1,0 @@
-## Game.EquipItemToHand(itemTDBIDStr)
-
-WIP

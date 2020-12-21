@@ -1,3 +1,0 @@
-## Game.ToggleFlashlight(val)
-
-WIP

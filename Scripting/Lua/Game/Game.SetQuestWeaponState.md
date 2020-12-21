@@ -1,3 +1,0 @@
-## Game.SetQuestWeaponState(weaponState)
-
-WIP

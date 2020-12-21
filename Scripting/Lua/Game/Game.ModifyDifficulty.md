@@ -1,3 +1,0 @@
-## Game.ModifyDifficulty(stringDifficultyLevel)
-
-WIP
