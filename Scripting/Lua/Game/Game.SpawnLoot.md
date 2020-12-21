@@ -1,3 +1,0 @@
-## Game.SpawnLoot(loot)
-
-WIP

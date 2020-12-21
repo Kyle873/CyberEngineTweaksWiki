@@ -1,3 +1,0 @@
-## Game.ChangeZoneIndicatorPublic()
-
-WIP

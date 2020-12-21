@@ -1,3 +1,0 @@
-## Game.TestForcePlayerInvisible(value)
-
-WIP

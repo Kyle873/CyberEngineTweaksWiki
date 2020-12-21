@@ -1,3 +1,0 @@
-## Game.SetZoneType(zoneType)
-
-WIP

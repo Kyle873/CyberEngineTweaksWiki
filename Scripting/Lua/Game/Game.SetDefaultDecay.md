@@ -1,3 +1,0 @@
-## Game.SetDefaultDecay(statPoolTypeString)
-
-WIP
