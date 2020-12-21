@@ -1,0 +1,3 @@
+## Game.testLocationUpdate(value)
+
+WIP

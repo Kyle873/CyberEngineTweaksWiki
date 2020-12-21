@@ -1,0 +1,3 @@
+## Game.Weak(modeStr)
+
+WIP

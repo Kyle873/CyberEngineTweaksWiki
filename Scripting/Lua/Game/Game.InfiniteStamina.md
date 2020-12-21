@@ -1,0 +1,3 @@
+## Game.InfiniteStamina(enable)
+
+WIP

@@ -1,0 +1,3 @@
+## Game.SetDefaultRegen(statPoolTypeString)
+
+WIP

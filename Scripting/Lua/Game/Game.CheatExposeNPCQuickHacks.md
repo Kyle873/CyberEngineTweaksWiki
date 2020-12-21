@@ -1,0 +1,3 @@
+## Game.CheatExposeNPCQuickHacks()
+
+WIP

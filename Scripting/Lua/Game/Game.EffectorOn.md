@@ -1,0 +1,3 @@
+## Game.EffectorOn(record)
+
+WIP
