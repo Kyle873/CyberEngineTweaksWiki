@@ -13,3 +13,5 @@ To call an internal script function, just prefix the function you want to call w
 For example if one wants to call `AddToInventory` they would call `Game.AddToInventory("ItemName", 1)`
 
 There are many script functions, not all are known, if a list were to appear I will add it here.
+
+See [Tutorial](https://github.com/yamashi/CyberEngineTweaks/wiki/Script-tutorial) for more information.
