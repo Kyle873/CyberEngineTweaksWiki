@@ -1,0 +1,3 @@
+## Game.DecreaseGlobalTimeDilation()
+
+WIP

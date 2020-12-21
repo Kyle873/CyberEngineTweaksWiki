@@ -1,0 +1,3 @@
+## Game.SetTimeDilation(amount)
+
+WIP

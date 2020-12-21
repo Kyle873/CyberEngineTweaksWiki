@@ -1,0 +1,3 @@
+## Game.PrintNPCItemBySlot(slotName)
+
+WIP

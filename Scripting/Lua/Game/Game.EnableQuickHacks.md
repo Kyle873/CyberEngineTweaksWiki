@@ -1,0 +1,3 @@
+## Game.EnableQuickHacks(shouldEnable)
+
+WIP

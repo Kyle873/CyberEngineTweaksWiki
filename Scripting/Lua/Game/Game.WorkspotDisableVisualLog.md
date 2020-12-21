@@ -1,0 +1,3 @@
+## Game.WorkspotDisableVisualLog(entId)
+
+WIP

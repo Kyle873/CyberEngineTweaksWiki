@@ -1,0 +1,3 @@
+## Game.EffectorOff(record)
+
+WIP

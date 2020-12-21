@@ -1,0 +1,3 @@
+## Game.PrintItemsInSlots()
+
+WIP

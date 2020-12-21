@@ -1,0 +1,3 @@
+## Game.ApplyEffectOnNPC(effect)
+
+WIP

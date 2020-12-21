@@ -1,0 +1,3 @@
+## Game.DebugNPC(durationStr)
+
+WIP

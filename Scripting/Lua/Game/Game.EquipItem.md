@@ -1,0 +1,3 @@
+## Game.EquipItem(itemTDBIDStr)
+
+WIP
