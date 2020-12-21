@@ -1,3 +1,0 @@
-## Game.WorkspotDisableStateView(entId)
-
-WIP

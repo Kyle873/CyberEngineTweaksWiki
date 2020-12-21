@@ -1,3 +1,0 @@
-## Game.PrintProfExpToNextLevel(stringProfType)
-
-WIP

@@ -1,3 +1,0 @@
-## Game.WorkspotEnableVisualLog(entId)
-
-WIP

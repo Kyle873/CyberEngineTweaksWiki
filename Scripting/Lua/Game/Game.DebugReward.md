@@ -1,3 +1,0 @@
-## Game.DebugReward(rewardDef)
-
-WIP

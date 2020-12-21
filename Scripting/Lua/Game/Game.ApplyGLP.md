@@ -1,3 +1,0 @@
-## Game.ApplyGLP(value)
-
-WIP
