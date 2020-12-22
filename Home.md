@@ -4,6 +4,7 @@
 2. Unzip everything in `<cyberpunk install path>/bin/x64/`
 3. You should see Cyberpunk2077.exe and version.dll in this directory, it means you did it correctly.
 4. Launch the game!
+5. Make sure you're running the game in **Windowed Borderless**. Console will not work properly in fullscreen mode!
 5. (Optional) To check that everything works you can look at the logs in `<cyberpunk install path>/bin/x64/plugins/cyber_engine_tweaks/cyber_engine_tweaks.log`
 
 ## Troubleshoot
